@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferencesBonus</string>
+    <string name="show">show</string>
+    <string name="preference_file_key">com.example.SharedPreferencesBonus.PREFERENCE_FILE_KEY</string>
+</resources>
